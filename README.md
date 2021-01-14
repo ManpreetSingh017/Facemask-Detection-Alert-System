@@ -7,4 +7,4 @@ Brief description of project is as followed:
 2. I have used keras/tensorflow,sklearn,numpy,matplotlib,tkinter,smtp module libraries for this project.
 3. Once the model i.e.face_mask_detection.h5 is trained,I created a gui for user using this model to detect 'Mask ON' or 'NO Mask'.
 4. GUI contains two buttons 'Select Image' and 'Detect Mask'.
-5. After selecting input image,user can click on 'Detect Mask'.If the person in that image is wearing a mask it labels Mask ON in green label on image.If not it labels NO    mask in red rectangular label & sends an alert email to authorities(i.e. person whose email address is mentioned in project) containing attached image of that person. 
+5. After selecting input image,user can click on 'Detect Mask'.If the person in that image is wearing a mask it labels Mask ON in green label on image.If not it labels NO    mask in red rectangular label & sends an alert email to authorities(i.e. person whose email address is mentioned in project) containing attached image of that person . 
